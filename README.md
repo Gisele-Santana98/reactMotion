@@ -1,8 +1,9 @@
-🚀 Framer Motion: Atividade Prática
+## 🚀 Framer Motion: 
+Atividade Prática
 Este projeto é uma aplicação React desenvolvida para demonstrar o domínio da biblioteca Framer Motion. 
 Através de quatro desafios progressivos, explorei desde fundamentos de ciclo de vida até orquestração complexa de animações e gerenciamento de saída de componentes do DOM.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 React (Vite)
 
 Framer Motion (Animações declarativas)
