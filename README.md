@@ -3,14 +3,14 @@ Atividade Prática
 Este projeto é uma aplicação React desenvolvida para demonstrar o domínio da biblioteca Framer Motion. 
 Através de quatro desafios progressivos, explorei desde fundamentos de ciclo de vida até orquestração complexa de animações e gerenciamento de saída de componentes do DOM.
 
-# 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 React (Vite)
 
 Framer Motion (Animações declarativas)
 
 CSS3 (Glassmorphism & Estilização moderna)
 
-📋 Funcionalidades Implementadas
+## 📋 Funcionalidades Implementadas
 O projeto foi dividido em quatro partes principais, conforme o escopo da atividade:
 
 1. Welcome Card (Fundamentos)
@@ -41,7 +41,7 @@ Propriedades: AnimatePresence e exit.
 
 Efeito: O alerta desliza para fora da tela antes de ser efetivamente removido pelo React.
 
-🚀 Como Rodar o Projeto
+## 🚀 Como Rodar o Projeto
 Clone o repositório:
 
 Bash
